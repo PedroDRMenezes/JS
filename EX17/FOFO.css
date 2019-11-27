@@ -1,0 +1,44 @@
+.bl{
+    background-color: aquamarine;
+}
+
+.bc{
+    background-color: bisque;
+}
+
+.ct{
+    text-align: center;
+}
+
+#menu{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.final{
+    background-color: bisque;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.ci{
+    display: flex;
+    justify-content: center;
+}
+
+.pesquisar{
+    margin: 10px;
+}
+
+body{
+    background-color: bisque;
+}
+
+.border-bottom{
+    border-color:black ;
+}
