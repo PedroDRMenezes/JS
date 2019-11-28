@@ -1,0 +1,33 @@
+.margem{
+    background-color: beige;
+    
+}
+
+.titulo{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: darkslategrey;
+    text-align: center;
+    font-size: 100px;
+}
+
+.col-md-4{
+    border:2px solid black;
+    height: 180px;
+    background-color: #fff;
+}
+
+.bonitinho{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+h1{
+    color: #fff;
+}
+
+body{
+    
+    background-color: beige;
+}
+
