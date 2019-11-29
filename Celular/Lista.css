@@ -1,0 +1,28 @@
+body{
+    background-color: beige;
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    font-family: inherit;
+    color: beige;
+    font-size: 300%;
+    text-align: center;
+}
+
+.titulo{
+    background-color: black;
+    padding: 5%;
+
+}
+
+.soma{
+    margin-top: 2%;
+    display:flex;
+    justify-content: center;
+}
+.conteiner{
+    display: inline-flex;
+    justify-content: center;
+}
